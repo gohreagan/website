@@ -900,7 +900,7 @@ pre {
 }
 .cid-qrHmGLY2Zk {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-color: #efefef;
 }
 .cid-qrHmGLY2Zk .card-img a {
@@ -942,8 +942,8 @@ pre {
   transition: box-shadow 0.3s;
 }
 .cid-qrHoeHmmiD {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 30px;
   background-color: #efefef;
 }
 .cid-qrHoeHmmiD .list-group-item {
@@ -991,6 +991,17 @@ pre {
   .cid-qrHoeHmmiD .price-figure {
     font-size: 4.25rem;
   }
+}
+.cid-qrHH8f6Axa {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qrHH8f6Axa .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qrHH8f6Axa .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-qrHfyquRE5 {
   padding-top: 60px;
@@ -1050,17 +1061,6 @@ pre {
   .cid-qrHfyquRE5 .mbr-figure {
     padding-left: 4rem;
   }
-}
-.cid-qrHH8f6Axa {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qrHH8f6Axa .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qrHH8f6Axa .btn {
-  margin: 0 0 .5rem 0;
 }
 .cid-qrHdku2cNQ {
   padding-top: 90px;
